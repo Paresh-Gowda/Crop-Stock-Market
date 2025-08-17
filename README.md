@@ -1,4 +1,4 @@
-#🌾 Smart Crop Market Dashboard
+# 🌾 Smart Crop Market Dashboard
 
 Smart Crop Market Dashboard is an AI-powered solution built to address one of the biggest challenges faced by farmers — unpredictable crop prices.
 Every season, farmers struggle with fluctuating market rates and often rely on middlemen or outdated information, which leads to poor selling decisions and financial losses. Our platform empowers them with real-time, reliable, and easy-to-understand insights.
