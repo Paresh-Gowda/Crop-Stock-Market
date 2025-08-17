@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+#🌾 Smart Crop Market Dashboard
 
-## Getting Started
+Smart Crop Market Dashboard is an AI-powered solution built to address one of the biggest challenges faced by farmers — unpredictable crop prices.
+Every season, farmers struggle with fluctuating market rates and often rely on middlemen or outdated information, which leads to poor selling decisions and financial losses. Our platform empowers them with real-time, reliable, and easy-to-understand insights.
 
-First, run the development server:
+The system provides live mandi price updates, ensuring that farmers always know the current value of their crops.
+Alongside this, a powerful AI-driven prediction model analyzes historical data and seasonal trends to forecast future prices, helping farmers plan the best time to sell their produce.
+This predictive power reduces guesswork and allows for smarter decision-making.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+To make it even more practical, we’ve integrated a profit calculator that helps farmers estimate their earnings before planting or selling.
+This feature gives them clarity and confidence in planning their cultivation strategies.
+For farmers with limited digital literacy, a multi-language voice assistant makes the platform accessible through simple speech, while the crop-themed, user-friendly dashboard ensures an engaging experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+On the technical side, the project is built with Next.js, React, Tailwind CSS, Chart.js, Node.js, Express.js, and Web Speech API.
+These technologies were chosen to make the solution lightweight, mobile-friendly, and interactive, ensuring smooth access even in rural areas with limited internet connectivity.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This is not just another project — it is one of my best and most impactful ideas.
+By combining AI, data, and design with real-world agricultural needs, Smart Crop Market Dashboard has the potential to transform how farmers approach cultivation and selling. It’s more than a platform; it’s a step toward empowering farmers, reducing losses, and building a sustainable agricultural future.
